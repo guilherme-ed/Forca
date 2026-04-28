@@ -1,5 +1,9 @@
 # 🎮 Jogo da Forca com Streamlit
 
+<div align="center">
+  <img src="assets/demo.gif" alt="Demo do Jogo da Forca" width="700">
+</div>
+
 Um jogo da forca interativo feito com Python e Streamlit, com interface no navegador, categorias de palavras e placar de vitórias.
 
 ## ✨ Funcionalidades
